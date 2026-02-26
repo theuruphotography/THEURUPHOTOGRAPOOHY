@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Capture.     Curate. Preserve.
+      text: Capture.Curate. Preserve.
       color: text-dark
       type: TitleBlock
     subtitle: GERMANY
