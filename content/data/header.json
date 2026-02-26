@@ -1,6 +1,5 @@
 {
     "logo": {
-        "url": "/images/logo-dark.svg",
         "altText": "Logo dark",
         "styles": {
             "self": {
@@ -13,25 +12,27 @@
     },
     "primaryLinks": [
         {
-            "label": "Pricing",
+            "label": "OUR WORK",
             "url": "/pricing",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
-            "type": "Link"
+            "type": "Link",
+            "showIcon": false
         },
         {
-            "label": "Blog",
-            "altText": "Blog",
+            "label": "GELLARY",
+            "altText": "",
             "url": "/blog",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
-            "type": "Link"
+            "type": "Link",
+            "showIcon": false
         },
         {
-            "label": "Careers",
-            "altText": "Careers page",
+            "label": "FILMS",
+            "altText": "",
             "url": "/careers",
             "icon": "arrowRight",
             "iconPosition": "right",
@@ -39,59 +40,35 @@
             "type": "Link"
         },
         {
-            "label": "Dropdown",
-            "altText": "Dropdown",
-            "links": [
-                {
-                    "label": "Dropdown item",
-                    "url": "/",
-                    "icon": "arrowRight",
-                    "iconPosition": "right",
-                    "style": "secondary",
-                    "type": "Link"
-                },
-                {
-                    "label": "Dropdown item",
-                    "url": "/",
-                    "icon": "arrowRight",
-                    "iconPosition": "right",
-                    "style": "secondary",
-                    "type": "Link"
-                },
-                {
-                    "label": "Dropdown item",
-                    "url": "/",
-                    "icon": "arrowRight",
-                    "iconPosition": "right",
-                    "style": "secondary",
-                    "type": "Link"
-                }
-            ],
+            "label": "WORKSHOP",
+            "altText": "",
+            "links": [],
             "labelStyle": "secondary",
             "type": "SubNav"
         }
     ],
     "secondaryLinks": [
         {
-            "label": "Sign up",
-            "altText": "Sign up",
-            "url": "https://app.netlify.com/signup",
+            "label": "ABOUT US",
+            "altText": "",
+            "url": "https://www.instagram.com/theuruphotography?igsh=Z2oyeTBybGJ0bXVj&utm_source=qr",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
-            "type": "Button"
+            "type": "Button",
+            "showIcon": false
         },
         {
-            "label": "Log in",
-            "url": "/",
+            "label": "CONTACT US",
+            "url": "contact-form",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "primary",
             "type": "Button"
         }
     ],
-    "variant": "logo-left-primary-nav-centered",
+    "variant": "logo-centered-primary-nav-left",
     "colors": "bg-dark-fg-light",
     "type": "Header",
-    "title": "Theuruphotography"
+    "title": "THEURUPHOTOGRAPHY"
 }
