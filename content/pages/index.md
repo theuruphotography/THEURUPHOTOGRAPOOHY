@@ -11,16 +11,7 @@ sections:
     text: >
       ***Inspired by real moments and real people, I create digital diaries that
       feel alive forever.***
-    actions:
-      - label: See Tutorials
-        altText: ''
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-        type: Link
+    actions: []
     media:
       url: /images/IMG_2137.jpeg
       altText: Unblock your team boost your time to production preview
