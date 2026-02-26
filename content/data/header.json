@@ -49,25 +49,27 @@
     ],
     "secondaryLinks": [
         {
-            "label": "ABOUT US",
+            "type": "Link",
             "altText": "",
-            "url": "https://www.instagram.com/theuruphotography?igsh=Z2oyeTBybGJ0bXVj&utm_source=qr",
-            "icon": "arrowRight",
+            "url": "/https://www.instagram.com/theuruphotography?igsh=Z2oyeTBybGJ0bXVj&utm_source=qr",
+            "showIcon": true,
+            "icon": "instagram",
             "iconPosition": "right",
             "style": "secondary",
-            "type": "Button",
-            "showIcon": false
+            "elementId": ""
         },
         {
-            "label": "CONTACT US",
-            "url": "contact-form",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "primary",
-            "type": "Button"
+            "type": "Link",
+            "altText": "YouTube",
+            "url": "/https://youtube.com/@theuruphotography_de?si=7e4T2_wDviwP34_c",
+            "showIcon": true,
+            "icon": "youtube",
+            "iconPosition": "left",
+            "style": "secondary",
+            "elementId": ""
         }
     ],
-    "variant": "logo-centered-primary-nav-left",
+    "variant": "logo-centered-primary-nav-centered",
     "colors": "bg-dark-fg-light",
     "type": "Header",
     "title": "THEURUPHOTOGRAPHY"

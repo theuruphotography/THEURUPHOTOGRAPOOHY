@@ -32,7 +32,7 @@ sections:
         elementId: ''
         type: Link
     media:
-      url: /images/DSC08093.jpeg
+      url: /images/IMG_2137.jpeg
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
@@ -199,25 +199,6 @@ sections:
       subtitle:
         textAlign: center
     type: ImageGallerySection
-  - posts:
-      - content/pages/blog/case-study-1.md
-      - content/pages/blog/case-study-2.md
-      - content/pages/blog/case-study-3.md
-    showThumbnail: true
-    showDate: true
-    showAuthor: true
-    variant: three-col-grid
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-16
-          - pl-16
-          - pb-16
-          - pr-16
-        justifyContent: center
-    type: FeaturedPostsSection
-    hoverEffect: move-up
   - title: Divider
     colors: bg-light-fg-dark
     styles:
@@ -243,7 +224,7 @@ sections:
       vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
     media:
       title: Title of the video
-      url: /images/placeholder-video.mp4
+      url: https://youtu.be/EP9gapW_P5Y?si=PAya8sLhme-4JiaL
       controls: false
       aspectRatio: '16:9'
       styles:
@@ -260,7 +241,7 @@ sections:
       type: VideoBlock
       autoplay: true
       loop: true
-      muted: true
+      muted: false
     badge:
       label: Key Benefits
       color: text-primary
