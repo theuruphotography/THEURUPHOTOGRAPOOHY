@@ -144,7 +144,7 @@ sections:
           borderWidth: 1
           borderRadius: large
     badge:
-      label: This is a badge
+      label: WE PROVIDE
       color: text-primary
       type: Badge
     colors: bg-light-fg-dark
