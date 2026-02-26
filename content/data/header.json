@@ -60,7 +60,7 @@
         },
         {
             "label": "CONTACT US",
-            "url": "",
+            "url": "contact-form",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "primary",
