@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: "Capture, \_ \_ \_Curate, \_ \_ Preserve."
+      text: "Capture,Curate, \_ \_ Preserve."
       color: text-dark
       type: TitleBlock
     subtitle: GERMANY
