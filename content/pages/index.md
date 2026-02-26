@@ -347,7 +347,7 @@ sections:
       url: https://youtu.be/cLNf2zaMtCc?si=81jb1dGqeF7ilKnu
       autoplay: true
       loop: true
-      muted: true
+      muted: false
       controls: false
       aspectRatio: '16:9'
       styles:
