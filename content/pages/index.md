@@ -162,9 +162,7 @@ sections:
       type: TitleBlock
     subtitle: ''
     text: |
-      ***Big events need big storytelling. ***
-
-      ***Book your slot before it fills.***
+      ***Big events need big storytelling. Book your slot before it fills.***
     media:
       fields:
         - name: name
