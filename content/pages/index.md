@@ -37,7 +37,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: CO-FOUNDER
+      label: CO-FOUNDER OF THEURUPHOTOGRAPHY
       color: text-primary
       type: Badge
     elementId: ''
