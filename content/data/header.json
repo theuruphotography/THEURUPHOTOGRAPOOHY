@@ -64,7 +64,8 @@
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "primary",
-            "type": "Button"
+            "type": "Button",
+            "altText": "contact-form"
         }
     ],
     "variant": "logo-centered-primary-nav-left",
