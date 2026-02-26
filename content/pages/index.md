@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Unblock your team boost your time to production
+      text: We Create Digital Diary for Your Big Day
       color: text-dark
       type: TitleBlock
     subtitle: We Create Digital Diary for Your Big Day
