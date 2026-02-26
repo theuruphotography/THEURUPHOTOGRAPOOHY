@@ -11,7 +11,17 @@ sections:
     text: >
       ***Inspired by real moments and real people, I create digital diaries that
       feel alive forever.***
-    actions: []
+    actions:
+      - type: Link
+        label: Instagram
+        altText: Instagram
+        url: >-
+          /https://www.instagram.com/iamuru__?igsh=MTVsaWJpb2Z6amtrbg%3D%3D&utm_source=qr
+        showIcon: true
+        icon: instagram
+        iconPosition: left
+        style: secondary
+        elementId: ''
     media:
       url: /images/IMG_2137.jpeg
       altText: Unblock your team boost your time to production preview
