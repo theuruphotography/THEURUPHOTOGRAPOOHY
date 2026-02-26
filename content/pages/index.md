@@ -292,7 +292,7 @@ sections:
       vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
     actions: []
     media:
-      title: Title of the video
+      title: GLOBAL GUJARATI GARBA 2025
       url: https://youtu.be/h6qqLj9LRIs?si=sR4ub8L4JC0yHetq
       autoplay: true
       loop: true
