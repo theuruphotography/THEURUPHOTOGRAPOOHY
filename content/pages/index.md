@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: "Capture,Curate, \_ \_ Preserve."
+      text: Every Emotion, Beautifully Preserved Forever
       color: text-dark
       type: TitleBlock
     subtitle: GERMANY
