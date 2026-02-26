@@ -47,18 +47,7 @@
             "type": "SubNav"
         }
     ],
-    "secondaryLinks": [
-        {
-            "label": "ABOUT US",
-            "altText": "",
-            "url": "https://www.instagram.com/theuruphotography?igsh=Z2oyeTBybGJ0bXVj&utm_source=qr",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Button",
-            "showIcon": false
-        }
-    ],
+    "secondaryLinks": [],
     "variant": "logo-centered-primary-nav-left",
     "colors": "bg-dark-fg-light",
     "type": "Header",
