@@ -50,17 +50,6 @@
     "secondaryLinks": [
         {
             "type": "Link",
-            "label": "Send email",
-            "altText": "Play",
-            "url": "/theuruphotography@gmail.com",
-            "showIcon": true,
-            "icon": "mail",
-            "iconPosition": "right",
-            "style": "secondary",
-            "elementId": ""
-        },
-        {
-            "type": "Link",
             "altText": "",
             "url": "/https://www.instagram.com/theuruphotography?igsh=Z2oyeTBybGJ0bXVj&utm_source=qr",
             "showIcon": true,
