@@ -57,6 +57,16 @@
             "iconPosition": "right",
             "style": "secondary",
             "elementId": ""
+        },
+        {
+            "type": "Link",
+            "altText": "YouTube",
+            "url": "/https://youtube.com/@theuruphotography_de?si=7e4T2_wDviwP34_c",
+            "showIcon": true,
+            "icon": "youtube",
+            "iconPosition": "left",
+            "style": "secondary",
+            "elementId": ""
         }
     ],
     "variant": "logo-centered-primary-nav-left",
