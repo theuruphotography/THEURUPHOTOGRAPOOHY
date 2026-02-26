@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: We Create Digital Diary for Your Big Day
+      text: Capture. Curate. Preserve.
       color: text-dark
       type: TitleBlock
     subtitle: GERMANY
