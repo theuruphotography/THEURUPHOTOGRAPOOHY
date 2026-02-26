@@ -110,12 +110,6 @@ sections:
       ***Helping your event reach the right audience, at the right time, with
       the right story.***
     actions:
-      - label: Get started
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        type: Button
       - label: See Tutorials
         url: /
         showIcon: true
