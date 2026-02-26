@@ -37,7 +37,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: FOUNDER
+      label: CO-FOUNDER
       color: text-primary
       type: Badge
     elementId: ''
