@@ -276,49 +276,6 @@ sections:
       subtitle:
         textAlign: center
     type: GenericSection
-  - type: GenericSection
-    title:
-      text: Generic section with a video
-      color: text-dark
-      styles:
-        self:
-          textAlign: left
-      type: TitleBlock
-    subtitle: Section with a video subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
-    actions: []
-    media:
-      title: GLOBAL GUJARATI GARBA 2025
-      url: https://youtu.be/h6qqLj9LRIs?si=sR4ub8L4JC0yHetq
-      autoplay: true
-      loop: true
-      muted: false
-      controls: false
-      aspectRatio: '16:9'
-      styles:
-        self:
-          padding:
-            - pt-2
-            - pb-2
-            - pl-2
-            - pr-2
-          borderColor: border-dark
-          borderStyle: solid
-          borderWidth: 1
-          borderRadius: large
-      type: VideoBlock
-    elementId: null
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        flexDirection: row
-        justifyContent: center
-      subtitle:
-        textAlign: left
   - title:
       text: Social Media Management
       color: text-dark
@@ -377,6 +334,49 @@ sections:
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 100
+  - type: GenericSection
+    title:
+      text: Generic section with a video
+      color: text-dark
+      styles:
+        self:
+          textAlign: left
+      type: TitleBlock
+    subtitle: Section with a video subtitle
+    text: |-
+      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
+      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
+      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
+      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    actions: []
+    media:
+      title: GLOBAL GUJARATI GARBA 2025
+      url: https://youtu.be/h6qqLj9LRIs?si=sR4ub8L4JC0yHetq
+      autoplay: true
+      loop: true
+      muted: false
+      controls: false
+      aspectRatio: '16:9'
+      styles:
+        self:
+          padding:
+            - pt-2
+            - pb-2
+            - pl-2
+            - pr-2
+          borderColor: border-dark
+          borderStyle: solid
+          borderWidth: 1
+          borderRadius: large
+      type: VideoBlock
+    elementId: null
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        flexDirection: row
+        justifyContent: center
+      subtitle:
+        textAlign: left
   - title:
       text: Business Consulting
       color: text-dark
