@@ -109,14 +109,7 @@ sections:
     text: >
       ***Helping your event reach the right audience, at the right time, with
       the right story.***
-    actions:
-      - label: See Tutorials
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        type: Link
+    actions: []
     media:
       type: VideoBlock
       title: Title of the video
