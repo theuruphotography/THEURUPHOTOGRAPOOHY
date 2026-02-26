@@ -47,7 +47,18 @@
             "type": "SubNav"
         }
     ],
-    "secondaryLinks": [],
+    "secondaryLinks": [
+        {
+            "type": "Link",
+            "altText": "",
+            "url": "/https://www.instagram.com/theuruphotography?igsh=Z2oyeTBybGJ0bXVj&utm_source=qr",
+            "showIcon": true,
+            "icon": "instagram",
+            "iconPosition": "right",
+            "style": "secondary",
+            "elementId": ""
+        }
+    ],
     "variant": "logo-centered-primary-nav-left",
     "colors": "bg-dark-fg-light",
     "type": "Header",
