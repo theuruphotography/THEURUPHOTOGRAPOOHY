@@ -60,11 +60,12 @@ sections:
           textAlign: center
       type: TitleBlock
     subtitle: ORGANISED BY MAGICAL EVENTS EUROPE
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >
+      ***More than a thousand people gathered to celebrate Garba, turning
+      Munich’s biggest venue into a home away from home.
+
+      Our storytelling captured the joy, unity, and heartbeat of the
+      community.***
     media:
       title: Title of the video
       url: https://youtu.be/EP9gapW_P5Y?si=PAya8sLhme-4JiaL
