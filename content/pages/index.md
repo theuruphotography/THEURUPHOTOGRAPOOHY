@@ -53,7 +53,7 @@ sections:
           - pr-7
     type: DividerSection
   - title:
-      text: GLOBAL GUJARATI GARBA TOUR 2025
+      text: GLOBAL GUJARATI GARBA 2025
       color: text-dark
       styles:
         self:
