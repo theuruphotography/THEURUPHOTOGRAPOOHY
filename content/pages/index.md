@@ -365,7 +365,7 @@ sections:
       label: This is a badge
       color: text-primary
       type: Badge
-    colors: bg-dark-fg-light
+    colors: bg-neutral-fg-dark
     styles:
       self:
         alignItems: center
