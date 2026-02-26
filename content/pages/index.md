@@ -107,8 +107,8 @@ sections:
       type: TitleBlock
     subtitle: For Increase Event reach
     text: >
-      A service that helps businesses to manage their social media accounts and
-      posts.
+      ***Helping your event reach the right audience, at the right time, with
+      the right story.***
     actions:
       - label: Get started
         url: /
