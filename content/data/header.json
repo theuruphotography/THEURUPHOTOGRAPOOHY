@@ -49,7 +49,7 @@
     ],
     "secondaryLinks": [
         {
-            "label": "Sign up",
+            "label": "ABOUT US",
             "altText": "Sign up",
             "url": "https://app.netlify.com/signup",
             "icon": "arrowRight",
